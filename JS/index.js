@@ -8,7 +8,7 @@ var jpdbIRL = '/api/irl';
 var jpdbIML = '/api/iml';
 var empDBName ='EMP-DB';
 var empRelationName = 'EmpData';
-var connToken = '90932379|-31949271503826183|90955528';
+var connToken = '<-----Enter Your Token here------->';
 
 $('#empid').focus();
 
